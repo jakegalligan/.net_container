@@ -1,0 +1,5 @@
+C:\Users\galli\onedrive\documents\code\DotNetContainer\app\bin\Release\net5.0\publish\NetCore.Docker.exe
+C:\Users\galli\onedrive\documents\code\DotNetContainer\app\bin\Release\net5.0\publish\NetCore.Docker.dll
+C:\Users\galli\onedrive\documents\code\DotNetContainer\app\bin\Release\net5.0\publish\NetCore.Docker.deps.json
+C:\Users\galli\onedrive\documents\code\DotNetContainer\app\bin\Release\net5.0\publish\NetCore.Docker.runtimeconfig.json
+C:\Users\galli\onedrive\documents\code\DotNetContainer\app\bin\Release\net5.0\publish\NetCore.Docker.pdb
