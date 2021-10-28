@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = NetCore.Docker
-build_property.ProjectDir = c:\Users\galli\onedrive\documents\code\DotNetContainer\App\
+build_property.ProjectDir = C:\Users\galli\onedrive\documents\code\DotNetContainer\app\

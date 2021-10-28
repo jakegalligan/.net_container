@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XBI2oW5U8kQvBgOp7X4THBkTLTZKk86sokGKRb6ENNCnTf4opxR9iEVYDO0TqPgCPq7eDaq+OIQcmdFq2qpEAQ==",
+  "dgSpecHash": "ydN3FEKBjUhitpiQOk154fTooWx+XyQBU+w7XG4AEAXdLNm9M1g0UjahtdnZJvb3Nb4oO81QUheu3kb9LW7HvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\galli\\onedrive\\documents\\code\\DotNetContainer\\App\\NetCore.Docker.csproj",
+  "projectFilePath": "C:\\Users\\galli\\onedrive\\documents\\code\\DotNetContainer\\app\\NetCore.Docker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

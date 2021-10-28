@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\galli\\onedrive\\documents\\code\\DotNetContainer\\App\\NetCore.Docker.csproj": {}
+    "C:\\Users\\galli\\onedrive\\documents\\code\\DotNetContainer\\app\\NetCore.Docker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\galli\\onedrive\\documents\\code\\DotNetContainer\\App\\NetCore.Docker.csproj": {
+    "C:\\Users\\galli\\onedrive\\documents\\code\\DotNetContainer\\app\\NetCore.Docker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\galli\\onedrive\\documents\\code\\DotNetContainer\\App\\NetCore.Docker.csproj",
+        "projectUniqueName": "C:\\Users\\galli\\onedrive\\documents\\code\\DotNetContainer\\app\\NetCore.Docker.csproj",
         "projectName": "NetCore.Docker",
-        "projectPath": "C:\\Users\\galli\\onedrive\\documents\\code\\DotNetContainer\\App\\NetCore.Docker.csproj",
+        "projectPath": "C:\\Users\\galli\\onedrive\\documents\\code\\DotNetContainer\\app\\NetCore.Docker.csproj",
         "packagesPath": "C:\\Users\\galli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\galli\\onedrive\\documents\\code\\DotNetContainer\\App\\obj\\",
+        "outputPath": "C:\\Users\\galli\\onedrive\\documents\\code\\DotNetContainer\\app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
